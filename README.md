@@ -1,7 +1,7 @@
 # CHALLENGE AMIGO SECRETO
 
-	En este desafio se creo un programa en el cual aleatoriamente se elegira un "amigo"
- 	de la lista entrante
+	Bienvenido a este desafio.
+ 	Ingresa nombres de amigos cada uno de manera simultanea dando clik en el boton
+  	al finalizar de ingresar se realizara la seleccion aleatoria para conocer a tu amigo secreto
 
-Se debe de:
-	Ingresar nombres la cual se ira mostrando y asi al finalizar seleccionar aleatoriamente.
+El propio programa te ira guiando entonces no te preoupes :)
